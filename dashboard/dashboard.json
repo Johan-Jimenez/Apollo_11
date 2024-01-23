@@ -1,0 +1,57 @@
+{
+    "ORBONE": {
+        "excellent": 0,
+        "good": 0,
+        "warning": 0,
+        "faulty": 0,
+        "killed": 0,
+        "unknown": 0,
+        "disconnections": 0,
+        "inoperable_devices": 0,
+        "total_devices": 0
+    },
+    "CLNM": {
+        "excellent": 0,
+        "good": 0,
+        "warning": 0,
+        "faulty": 0,
+        "killed": 0,
+        "unknown": 0,
+        "disconnections": 0,
+        "inoperable_devices": 0,
+        "total_devices": 0
+    },
+    "TMRS": {
+        "excellent": 0,
+        "good": 0,
+        "warning": 0,
+        "faulty": 0,
+        "killed": 0,
+        "unknown": 0,
+        "disconnections": 0,
+        "inoperable_devices": 0,
+        "total_devices": 0
+    },
+    "GALXONE": {
+        "excellent": 0,
+        "good": 0,
+        "warning": 0,
+        "faulty": 0,
+        "killed": 0,
+        "unknown": 0,
+        "disconnections": 0,
+        "inoperable_devices": 0,
+        "total_devices": 0
+    },
+    "UNKN": {
+        "excellent": 0,
+        "good": 0,
+        "warning": 0,
+        "faulty": 0,
+        "killed": 0,
+        "unknown": 0,
+        "disconnections": 0,
+        "inoperable_devices": 0,
+        "total_devices": 0
+    }
+}
