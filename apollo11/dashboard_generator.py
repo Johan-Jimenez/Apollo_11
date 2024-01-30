@@ -86,6 +86,10 @@ class DashboardGenerator:
         dashboard_filename = f'dashboard.json'
         dashboard_path = os.path.join('dashboard', dashboard_filename)
         # Llamar los archivos
+        # Se limpia el archivo dashboard para evitar sobre-escritura
+        dashboard_data_clean()
+        logging.debug(
+            f"Se limpiaron lo registros de dashboard.json")
         # Crear un diccionario en blanco
         with open(dashboard_path, 'r') as report_file:
             dashboard_dict = json.load(report_file)
@@ -101,10 +105,6 @@ class DashboardGenerator:
                 f"Se esta agregando el archivo {report_file} al dashboard")
         # Se imprime el dashboard
         print_dashboard()
-        # Se limpia el archivo dashboard para evitar sobre-escritura
-        dashboard_data_clean()
-        logging.debug(
-            f"Se limpiaron lo registros de dashboard.json")
         # Se imprime imformacion sobre la hora de la ultima actualizacion
         time = datetime.now().strftime('%Y%m%d%H%M%S')
         logging.info(f'Ultima actualización {time}')

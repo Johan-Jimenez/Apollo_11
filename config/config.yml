@@ -1,6 +1,7 @@
 #config.yml YAML 5.1+
 intervalo_simulacion: 8
 max_archivos_generados: 100
+min_archivos_generados: 60
 ruta_dispositivos: "devices"
 ruta_respaldos: "backups"
 ruta_informes: "reports"

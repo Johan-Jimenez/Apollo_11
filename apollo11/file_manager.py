@@ -1,9 +1,11 @@
 # apollo11/file_manager.py
 
+import json
 import os
 import shutil
 import logging
 from typing import Dict, List
+
 
 class FileManager:
     def __init__(self):
@@ -22,18 +24,17 @@ class FileManager:
 
         for project, files in data.items():
             # Tomar solo el primer archivo para simplificar la lógica
-            file_content = files[0]
             file_name = f"APL{project}-{len(files)}"
             file_path = os.path.join('devices', file_name + '.log')
+            data_mision = {project: files}
 
             # Escribir el contenido del archivo
             with open(file_path, 'w') as file:
-                file.write(f"Date: {file_content['date']}\nMission: {file_content['mission']}\n"
-                            f"Device Type: {file_content['device_type']}\nDevice Status: {file_content['device_status']}\n"
-                            f"Hash: {file_content['hash']}\n")
-                
+                file.write(json.dumps(data_mision, indent=4))
+
                 # Registrar la generación del archivo en el registro
-                logging.info(f"File {file_name} generated for project {project}")
+                logging.info(
+                    f"File {file_name} generated for project {project}")
 
     def move_processed_files(self):
         """
@@ -43,12 +44,13 @@ class FileManager:
         os.makedirs(backup_folder, exist_ok=True)
 
         # Obtener el último archivo en 'devices' según la última modificación
-        latest_file = max(os.listdir('devices'), key=lambda x: os.path.getmtime(os.path.join('devices', x)))
-        source_path = os.path.join('devices', latest_file)
-        destination_path = os.path.join(backup_folder, latest_file)
-
-        # Mover el archivo procesado a la carpeta de backups
-        shutil.move(source_path, destination_path)
+        content = os.listdir('./devices')
+        for files in content:
+            source_path = os.path.join('devices', files)
+            destination_path = os.path.join(backup_folder, files)
+            # Mover el archivo procesado a la carpeta de backups
+            shutil.move(source_path, destination_path)
 
         # Registrar el movimiento del archivo procesado en el registro
+        logging.debug(f'Archivo {files} moviendose a backup')
         logging.info("Processed file moved to the backups folder.")

@@ -1,0 +1,21 @@
+{
+    "UNKN": {
+        "excellent": 20,
+        "good": 14,
+        "warning": 9,
+        "faulty": 14,
+        "killed": 13,
+        "unknown": 18,
+        "disconnections": 18,
+        "inoperable_devices": 27,
+        "total_devices": 88,
+        "percentages": {
+            "excellent": 22.727272727272727,
+            "good": 15.909090909090908,
+            "warning": 10.227272727272728,
+            "faulty": 15.909090909090908,
+            "killed": 14.772727272727273,
+            "unknown": 20.454545454545457
+        }
+    }
+}

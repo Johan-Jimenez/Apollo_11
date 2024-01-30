@@ -1,0 +1,151 @@
+{
+    "GALXONE": [
+        {
+            "date": "290124173825",
+            "mission": "GALXONE",
+            "device_type": "device_9",
+            "device_status": "killed",
+            "hash": "7575b1a5503cf0df7def06063b241d9d"
+        },
+        {
+            "date": "290124173825",
+            "mission": "GALXONE",
+            "device_type": "device_5",
+            "device_status": "warning",
+            "hash": "0c3e0e1413be486e342154dee2474d84"
+        },
+        {
+            "date": "290124173825",
+            "mission": "GALXONE",
+            "device_type": "device_2",
+            "device_status": "warning",
+            "hash": "5474ac0750f0deee1c3f59f50b2a4add"
+        },
+        {
+            "date": "290124173825",
+            "mission": "GALXONE",
+            "device_type": "device_9",
+            "device_status": "killed",
+            "hash": "7575b1a5503cf0df7def06063b241d9d"
+        },
+        {
+            "date": "290124173825",
+            "mission": "GALXONE",
+            "device_type": "device_4",
+            "device_status": "killed",
+            "hash": "28bb18b6eee51e8d3812a0f44e8f7b56"
+        },
+        {
+            "date": "290124173825",
+            "mission": "GALXONE",
+            "device_type": "device_10",
+            "device_status": "warning",
+            "hash": "994ce0790bc0d14f58b2e4dea440332f"
+        },
+        {
+            "date": "290124173825",
+            "mission": "GALXONE",
+            "device_type": "device_8",
+            "device_status": "good",
+            "hash": "02b49231d3d8129cef0ada8debb80e0b"
+        },
+        {
+            "date": "290124173825",
+            "mission": "GALXONE",
+            "device_type": "device_10",
+            "device_status": "killed",
+            "hash": "7280ca9c880a1a3ee75ade5e95b8ae5d"
+        },
+        {
+            "date": "290124173825",
+            "mission": "GALXONE",
+            "device_type": "device_4",
+            "device_status": "good",
+            "hash": "ee5f97a9b6bd8f0a73bd7f05c50b3d7d"
+        },
+        {
+            "date": "290124173825",
+            "mission": "GALXONE",
+            "device_type": "device_8",
+            "device_status": "excellent",
+            "hash": "928d2686d0b0ea1b3222e655dda0a0c9"
+        },
+        {
+            "date": "290124173825",
+            "mission": "GALXONE",
+            "device_type": "device_9",
+            "device_status": "unknown",
+            "hash": "640a709090c014d5f65215d928e44639"
+        },
+        {
+            "date": "290124173825",
+            "mission": "GALXONE",
+            "device_type": "device_9",
+            "device_status": "killed",
+            "hash": "7575b1a5503cf0df7def06063b241d9d"
+        },
+        {
+            "date": "290124173825",
+            "mission": "GALXONE",
+            "device_type": "device_4",
+            "device_status": "killed",
+            "hash": "28bb18b6eee51e8d3812a0f44e8f7b56"
+        },
+        {
+            "date": "290124173825",
+            "mission": "GALXONE",
+            "device_type": "device_2",
+            "device_status": "good",
+            "hash": "0d7fd900cbb733c369d0e819c3393844"
+        },
+        {
+            "date": "290124173825",
+            "mission": "GALXONE",
+            "device_type": "device_6",
+            "device_status": "good",
+            "hash": "13030b1f037cfc64bec3df84f88f1b76"
+        },
+        {
+            "date": "290124173825",
+            "mission": "GALXONE",
+            "device_type": "device_1",
+            "device_status": "faulty",
+            "hash": "9156650bf2676800eb3c10668f79fede"
+        },
+        {
+            "date": "290124173825",
+            "mission": "GALXONE",
+            "device_type": "device_9",
+            "device_status": "faulty",
+            "hash": "beea8f72996af2af163e22e290702069"
+        },
+        {
+            "date": "290124173825",
+            "mission": "GALXONE",
+            "device_type": "device_5",
+            "device_status": "unknown",
+            "hash": "56d40b6ce1e6f8b0dc3e093947f64701"
+        },
+        {
+            "date": "290124173825",
+            "mission": "GALXONE",
+            "device_type": "device_4",
+            "device_status": "warning",
+            "hash": "9a1139c163babb3d7144da862e559e6a"
+        },
+        {
+            "date": "290124173825",
+            "mission": "GALXONE",
+            "device_type": "device_5",
+            "device_status": "killed",
+            "hash": "c11a6a789a49bae833ba664e78e857be"
+        },
+        {
+            "date": "290124173825",
+            "mission": "GALXONE",
+            "device_type": "device_9",
+            "device_status": "killed",
+            "hash": "7575b1a5503cf0df7def06063b241d9d"
+        }
+    ]
+}

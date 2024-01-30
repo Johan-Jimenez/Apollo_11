@@ -1,0 +1,102 @@
+{
+    "UNKN": [
+        {
+            "date": "290124173800",
+            "mission": "UNKN",
+            "device_type": "device_10",
+            "device_status": "good",
+            "hash": "unknown"
+        },
+        {
+            "date": "290124173800",
+            "mission": "UNKN",
+            "device_type": "device_3",
+            "device_status": "excellent",
+            "hash": "unknown"
+        },
+        {
+            "date": "290124173800",
+            "mission": "UNKN",
+            "device_type": "device_5",
+            "device_status": "excellent",
+            "hash": "unknown"
+        },
+        {
+            "date": "290124173800",
+            "mission": "UNKN",
+            "device_type": "device_5",
+            "device_status": "good",
+            "hash": "unknown"
+        },
+        {
+            "date": "290124173800",
+            "mission": "UNKN",
+            "device_type": "device_10",
+            "device_status": "excellent",
+            "hash": "unknown"
+        },
+        {
+            "date": "290124173800",
+            "mission": "UNKN",
+            "device_type": "device_3",
+            "device_status": "good",
+            "hash": "unknown"
+        },
+        {
+            "date": "290124173800",
+            "mission": "UNKN",
+            "device_type": "device_4",
+            "device_status": "good",
+            "hash": "unknown"
+        },
+        {
+            "date": "290124173800",
+            "mission": "UNKN",
+            "device_type": "device_1",
+            "device_status": "excellent",
+            "hash": "unknown"
+        },
+        {
+            "date": "290124173800",
+            "mission": "UNKN",
+            "device_type": "device_3",
+            "device_status": "excellent",
+            "hash": "unknown"
+        },
+        {
+            "date": "290124173800",
+            "mission": "UNKN",
+            "device_type": "device_7",
+            "device_status": "good",
+            "hash": "unknown"
+        },
+        {
+            "date": "290124173800",
+            "mission": "UNKN",
+            "device_type": "device_5",
+            "device_status": "killed",
+            "hash": "unknown"
+        },
+        {
+            "date": "290124173800",
+            "mission": "UNKN",
+            "device_type": "device_7",
+            "device_status": "good",
+            "hash": "unknown"
+        },
+        {
+            "date": "290124173800",
+            "mission": "UNKN",
+            "device_type": "device_7",
+            "device_status": "unknown",
+            "hash": "unknown"
+        },
+        {
+            "date": "290124173800",
+            "mission": "UNKN",
+            "device_type": "device_1",
+            "device_status": "unknown",
+            "hash": "unknown"
+        }
+    ]
+}

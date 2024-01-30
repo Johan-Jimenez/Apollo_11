@@ -1,0 +1,137 @@
+{
+    "CLNM": [
+        {
+            "date": "290124173857",
+            "mission": "CLNM",
+            "device_type": "device_2",
+            "device_status": "warning",
+            "hash": "ee41b79f9fe1987c9cd2c04558632d3c"
+        },
+        {
+            "date": "290124173857",
+            "mission": "CLNM",
+            "device_type": "device_9",
+            "device_status": "good",
+            "hash": "0658621ddae0c6d1be05c3773bd18759"
+        },
+        {
+            "date": "290124173857",
+            "mission": "CLNM",
+            "device_type": "device_4",
+            "device_status": "faulty",
+            "hash": "cce776094564bf72689dcd8a1a20ac05"
+        },
+        {
+            "date": "290124173857",
+            "mission": "CLNM",
+            "device_type": "device_6",
+            "device_status": "faulty",
+            "hash": "e328aa0dd5c980223e6276d58b3a0338"
+        },
+        {
+            "date": "290124173857",
+            "mission": "CLNM",
+            "device_type": "device_8",
+            "device_status": "faulty",
+            "hash": "4015fe7dc89a85d2f730b71ebf43e68e"
+        },
+        {
+            "date": "290124173857",
+            "mission": "CLNM",
+            "device_type": "device_7",
+            "device_status": "faulty",
+            "hash": "6909b5c3ab97eb589b2d1ee101695e79"
+        },
+        {
+            "date": "290124173857",
+            "mission": "CLNM",
+            "device_type": "device_9",
+            "device_status": "unknown",
+            "hash": "fe73c8084cb3c0025389e767488c14b5"
+        },
+        {
+            "date": "290124173857",
+            "mission": "CLNM",
+            "device_type": "device_8",
+            "device_status": "excellent",
+            "hash": "47bec7fe83d895f7241db5c8adbfbd89"
+        },
+        {
+            "date": "290124173857",
+            "mission": "CLNM",
+            "device_type": "device_6",
+            "device_status": "killed",
+            "hash": "9766d7bb710cdc258b7251bdfd43b8d6"
+        },
+        {
+            "date": "290124173857",
+            "mission": "CLNM",
+            "device_type": "device_2",
+            "device_status": "good",
+            "hash": "be273f303c4dbcc1909f324a559d92d2"
+        },
+        {
+            "date": "290124173857",
+            "mission": "CLNM",
+            "device_type": "device_9",
+            "device_status": "killed",
+            "hash": "7cf2255b529c830a847a8f95b6fb5636"
+        },
+        {
+            "date": "290124173857",
+            "mission": "CLNM",
+            "device_type": "device_9",
+            "device_status": "good",
+            "hash": "0658621ddae0c6d1be05c3773bd18759"
+        },
+        {
+            "date": "290124173857",
+            "mission": "CLNM",
+            "device_type": "device_5",
+            "device_status": "unknown",
+            "hash": "a7e709d362d2826c4eb55b16cc188b77"
+        },
+        {
+            "date": "290124173857",
+            "mission": "CLNM",
+            "device_type": "device_10",
+            "device_status": "good",
+            "hash": "a2848da8f5899f41a0b7a960641b71cb"
+        },
+        {
+            "date": "290124173857",
+            "mission": "CLNM",
+            "device_type": "device_7",
+            "device_status": "faulty",
+            "hash": "6909b5c3ab97eb589b2d1ee101695e79"
+        },
+        {
+            "date": "290124173857",
+            "mission": "CLNM",
+            "device_type": "device_1",
+            "device_status": "faulty",
+            "hash": "7cf77bd7229b6955737e8da60d691549"
+        },
+        {
+            "date": "290124173857",
+            "mission": "CLNM",
+            "device_type": "device_4",
+            "device_status": "killed",
+            "hash": "a48f13792fa90040e2d2e0ef43511b99"
+        },
+        {
+            "date": "290124173857",
+            "mission": "CLNM",
+            "device_type": "device_2",
+            "device_status": "faulty",
+            "hash": "196bd4a9e91fce8405cbcf17bb44a560"
+        },
+        {
+            "date": "290124173857",
+            "mission": "CLNM",
+            "device_type": "device_1",
+            "device_status": "killed",
+            "hash": "fe6e0a2c9ac1c7c427090f6a68abda06"
+        }
+    ]
+}

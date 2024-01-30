@@ -1,0 +1,97 @@
+{
+    "TMRS": {
+        "excellent": 2,
+        "good": 4,
+        "warning": 1,
+        "faulty": 5,
+        "killed": 3,
+        "unknown": 4,
+        "disconnections": 4,
+        "inoperable_devices": 8,
+        "total_devices": 19,
+        "percentages": {
+            "excellent": 10.0,
+            "good": 20.0,
+            "warning": 15.0,
+            "faulty": 15.0,
+            "killed": 25.0,
+            "unknown": 15.0
+        }
+    },
+    "UNKN": {
+        "excellent": 5,
+        "good": 6,
+        "warning": 0,
+        "faulty": 0,
+        "killed": 1,
+        "unknown": 2,
+        "disconnections": 2,
+        "inoperable_devices": 1,
+        "total_devices": 14,
+        "percentages": {
+            "excellent": 10.0,
+            "good": 20.0,
+            "warning": 15.0,
+            "faulty": 15.0,
+            "killed": 25.0,
+            "unknown": 15.0
+        }
+    },
+    "CLNM": {
+        "excellent": 1,
+        "good": 3,
+        "warning": 2,
+        "faulty": 4,
+        "killed": 3,
+        "unknown": 2,
+        "disconnections": 2,
+        "inoperable_devices": 7,
+        "total_devices": 15,
+        "percentages": {
+            "excellent": 10.0,
+            "good": 20.0,
+            "warning": 15.0,
+            "faulty": 15.0,
+            "killed": 25.0,
+            "unknown": 15.0
+        }
+    },
+    "ORBONE": {
+        "excellent": 5,
+        "good": 2,
+        "warning": 2,
+        "faulty": 1,
+        "killed": 3,
+        "unknown": 5,
+        "disconnections": 5,
+        "inoperable_devices": 4,
+        "total_devices": 18,
+        "percentages": {
+            "excellent": 10.0,
+            "good": 20.0,
+            "warning": 15.0,
+            "faulty": 15.0,
+            "killed": 25.0,
+            "unknown": 15.0
+        }
+    },
+    "GALXONE": {
+        "excellent": 2,
+        "good": 4,
+        "warning": 3,
+        "faulty": 3,
+        "killed": 5,
+        "unknown": 3,
+        "disconnections": 3,
+        "inoperable_devices": 8,
+        "total_devices": 20,
+        "percentages": {
+            "excellent": 10.0,
+            "good": 20.0,
+            "warning": 15.0,
+            "faulty": 15.0,
+            "killed": 25.0,
+            "unknown": 15.0
+        }
+    }
+}

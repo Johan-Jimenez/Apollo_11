@@ -1,0 +1,97 @@
+{
+    "TMRS": {
+        "excellent": 9,
+        "good": 11,
+        "warning": 10,
+        "faulty": 13,
+        "killed": 12,
+        "unknown": 12,
+        "disconnections": 12,
+        "inoperable_devices": 25,
+        "total_devices": 67,
+        "percentages": {
+            "excellent": 2.4096385542168677,
+            "good": 3.614457831325301,
+            "warning": 6.024096385542169,
+            "faulty": 1.2048192771084338,
+            "killed": 2.4096385542168677,
+            "unknown": 0.0
+        }
+    },
+    "UNKN": {
+        "excellent": 13,
+        "good": 21,
+        "warning": 9,
+        "faulty": 12,
+        "killed": 11,
+        "unknown": 8,
+        "disconnections": 8,
+        "inoperable_devices": 23,
+        "total_devices": 74,
+        "percentages": {
+            "excellent": 2.4096385542168677,
+            "good": 3.614457831325301,
+            "warning": 6.024096385542169,
+            "faulty": 1.2048192771084338,
+            "killed": 2.4096385542168677,
+            "unknown": 0.0
+        }
+    },
+    "CLNM": {
+        "excellent": 15,
+        "good": 15,
+        "warning": 11,
+        "faulty": 18,
+        "killed": 17,
+        "unknown": 17,
+        "disconnections": 17,
+        "inoperable_devices": 35,
+        "total_devices": 93,
+        "percentages": {
+            "excellent": 2.4096385542168677,
+            "good": 3.614457831325301,
+            "warning": 6.024096385542169,
+            "faulty": 1.2048192771084338,
+            "killed": 2.4096385542168677,
+            "unknown": 0.0
+        }
+    },
+    "ORBONE": {
+        "excellent": 15,
+        "good": 15,
+        "warning": 14,
+        "faulty": 9,
+        "killed": 18,
+        "unknown": 21,
+        "disconnections": 21,
+        "inoperable_devices": 27,
+        "total_devices": 92,
+        "percentages": {
+            "excellent": 2.4096385542168677,
+            "good": 3.614457831325301,
+            "warning": 6.024096385542169,
+            "faulty": 1.2048192771084338,
+            "killed": 2.4096385542168677,
+            "unknown": 0.0
+        }
+    },
+    "GALXONE": {
+        "excellent": 13,
+        "good": 12,
+        "warning": 17,
+        "faulty": 12,
+        "killed": 20,
+        "unknown": 9,
+        "disconnections": 9,
+        "inoperable_devices": 32,
+        "total_devices": 83,
+        "percentages": {
+            "excellent": 2.4096385542168677,
+            "good": 3.614457831325301,
+            "warning": 6.024096385542169,
+            "faulty": 1.2048192771084338,
+            "killed": 2.4096385542168677,
+            "unknown": 0.0
+        }
+    }
+}

@@ -6,11 +6,13 @@ import hashlib
 from datetime import datetime
 from typing import Dict, List
 
+
 class DataGenerator:
     MISSIONS = ["ORBONE", "CLNM", "TMRS", "GALXONE", "UNKN"]
-    DEVICE_STATES = ["excellent", "good", "warning", "faulty", "killed", "unknown"]
+    DEVICE_STATES = ["excellent", "good",
+                     "warning", "faulty", "killed", "unknown"]
 
-    def generate_data(self, max_files: int, project: str) -> Dict[str, List[Dict[str, str]]]:
+    def generate_data(self, max_files: int, min_files: int) -> Dict[str, List[Dict[str, str]]]:
         """
         Genera datos simulados para dispositivos en una misión.
 
@@ -23,13 +25,16 @@ class DataGenerator:
         """
         data = {}
 
-        for _ in range(random.randint(1, max_files)):
+        for _ in range(random.randint(min_files, max_files)):
+            project = random.choice(
+                ['ORBONE', 'CLNM', 'TMRS', 'GALXONE', 'UNKN'])
             mission = project if project in self.MISSIONS else "UNKN"
             device_type = f'device_{random.randint(1, 10)}'
             device_status = random.choice(self.DEVICE_STATES)
 
             # Generar hash para la misión y el estado conocidos
-            hash_value = self.generate_hash(mission, device_type, device_status)
+            hash_value = self.generate_hash(
+                mission, device_type, device_status)
 
             # Contenido del archivo simulado
             file_content = {
@@ -37,7 +42,8 @@ class DataGenerator:
                 "mission": mission,
                 "device_type": device_type,
                 "device_status": device_status,
-                "hash": hash_value[:32]  # Tomar solo los primeros 32 caracteres del hash
+                # Tomar solo los primeros 32 caracteres del hash
+                "hash": hash_value[:32]
             }
 
             # Almacenar datos en el diccionario por misión

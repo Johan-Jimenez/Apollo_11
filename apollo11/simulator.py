@@ -13,7 +13,7 @@ from apollo11.dashboard_generator import DashboardGenerator
 
 
 class Apolo11Simulator:
-    def __init__(self, simulation_interval: int, max_files: int, project: str):
+    def __init__(self, simulation_interval: int, max_files: int, min_files: int, project: str):
         """
         Inicializa el simulador Apolo-11 con parámetros específicos.
 
@@ -24,6 +24,7 @@ class Apolo11Simulator:
         """
         self.simulation_interval = simulation_interval
         self.max_files = max_files
+        self.min_files = min_files
         self.project = project
         self.data_generator = DataGenerator()
         self.file_manager = FileManager()
@@ -42,7 +43,7 @@ class Apolo11Simulator:
         try:
             for _ in range(num_cycles):
                 data = self.data_generator.generate_data(
-                    self.max_files, self.project)
+                    self.max_files, self.min_files)
                 self.file_manager.manage_files(data)
                 self.report_generator.generate_reports(data)
                 self.file_manager.move_processed_files()

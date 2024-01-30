@@ -1,0 +1,130 @@
+{
+    "CLNM": [
+        {
+            "date": "290124173913",
+            "mission": "CLNM",
+            "device_type": "device_4",
+            "device_status": "faulty",
+            "hash": "ce668d60b4a9d11d970a8dde93b00316"
+        },
+        {
+            "date": "290124173913",
+            "mission": "CLNM",
+            "device_type": "device_3",
+            "device_status": "warning",
+            "hash": "08c13c509d15447dfac464b49eb6e1be"
+        },
+        {
+            "date": "290124173913",
+            "mission": "CLNM",
+            "device_type": "device_2",
+            "device_status": "good",
+            "hash": "a5db6055f6782b5c3b7b9159d9f833b4"
+        },
+        {
+            "date": "290124173913",
+            "mission": "CLNM",
+            "device_type": "device_3",
+            "device_status": "unknown",
+            "hash": "4d4c450d1d6ff7edcc8e38c0335f9316"
+        },
+        {
+            "date": "290124173913",
+            "mission": "CLNM",
+            "device_type": "device_3",
+            "device_status": "unknown",
+            "hash": "4d4c450d1d6ff7edcc8e38c0335f9316"
+        },
+        {
+            "date": "290124173913",
+            "mission": "CLNM",
+            "device_type": "device_9",
+            "device_status": "excellent",
+            "hash": "8b6f6b04413a15330951647c6eae042b"
+        },
+        {
+            "date": "290124173913",
+            "mission": "CLNM",
+            "device_type": "device_1",
+            "device_status": "faulty",
+            "hash": "fef524237aab2f5f6b258c32c30b3e66"
+        },
+        {
+            "date": "290124173913",
+            "mission": "CLNM",
+            "device_type": "device_8",
+            "device_status": "excellent",
+            "hash": "74a4c212ccda72d48a22eda482c840a0"
+        },
+        {
+            "date": "290124173913",
+            "mission": "CLNM",
+            "device_type": "device_7",
+            "device_status": "warning",
+            "hash": "afcfcf03f6b86e0e4d68da5ff3039249"
+        },
+        {
+            "date": "290124173913",
+            "mission": "CLNM",
+            "device_type": "device_6",
+            "device_status": "warning",
+            "hash": "f94b105224d99fb12fa15f5b1c4dbbd3"
+        },
+        {
+            "date": "290124173913",
+            "mission": "CLNM",
+            "device_type": "device_1",
+            "device_status": "faulty",
+            "hash": "fef524237aab2f5f6b258c32c30b3e66"
+        },
+        {
+            "date": "290124173913",
+            "mission": "CLNM",
+            "device_type": "device_2",
+            "device_status": "good",
+            "hash": "a5db6055f6782b5c3b7b9159d9f833b4"
+        },
+        {
+            "date": "290124173913",
+            "mission": "CLNM",
+            "device_type": "device_2",
+            "device_status": "excellent",
+            "hash": "78fe45c0780bc8e62f7251a70cd35393"
+        },
+        {
+            "date": "290124173913",
+            "mission": "CLNM",
+            "device_type": "device_5",
+            "device_status": "faulty",
+            "hash": "50c23cf41f1214d288229c34ef3616ec"
+        },
+        {
+            "date": "290124173913",
+            "mission": "CLNM",
+            "device_type": "device_2",
+            "device_status": "excellent",
+            "hash": "78fe45c0780bc8e62f7251a70cd35393"
+        },
+        {
+            "date": "290124173913",
+            "mission": "CLNM",
+            "device_type": "device_7",
+            "device_status": "faulty",
+            "hash": "959bdbe0f15561cdf9a8f328725ce299"
+        },
+        {
+            "date": "290124173913",
+            "mission": "CLNM",
+            "device_type": "device_2",
+            "device_status": "faulty",
+            "hash": "22be2546888ee5943b505077daabfc38"
+        },
+        {
+            "date": "290124173913",
+            "mission": "CLNM",
+            "device_type": "device_5",
+            "device_status": "good",
+            "hash": "3a56e7675ee691a7a9bbf49e78bf3c06"
+        }
+    ]
+}
